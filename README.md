@@ -4,4 +4,4 @@
 
 Alberto Rodríguez Álvarez Andres Mollares Ulloa Mario Garcia Mayo Xavier Castilla Carbonell
 
-Enlace git: https://github.com/XavierCastillaCarbonell/PercepcionComputacional_CasoGrupal1_Grupo18_9
+Enlace git: https://github.com/XavierCastillaCarbonell/PC_Segmentadores_Grupo18_9
